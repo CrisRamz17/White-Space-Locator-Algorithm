@@ -1,0 +1,8 @@
+Original Sentence: Hellohowareyou?
+
+Here Are The Best Possible Solutions From Best to Worst:
+
+1: Hello how are you?
+2: Hello how a re you?
+3: Hello ho wa re you?
+4: Hello ho ware you?

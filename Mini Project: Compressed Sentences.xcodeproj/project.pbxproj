@@ -23,8 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		40B4ABAC27DBDBCC00055653 /* dictionary2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dictionary2.txt; sourceTree = "<group>"; };
 		40C8B38E27D69DC70091A30D /* Mini Project: Compressed Sentences */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Mini Project: Compressed Sentences"; sourceTree = BUILT_PRODUCTS_DIR; };
 		40C8B39127D69DC70091A30D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		40C8B39927D6B17B0091A30D /* dict.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = dict.txt; sourceTree = "<group>"; };
+		40E462C52AE06BC0005E60F9 /* stringfile.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = stringfile.txt; sourceTree = "<group>"; };
+		40EEE60F27E6B40100E1F0E6 /* dictionary3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dictionary3.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +61,11 @@
 		40C8B39027D69DC70091A30D /* Mini Project: Compressed Sentences */ = {
 			isa = PBXGroup;
 			children = (
+				40EEE60F27E6B40100E1F0E6 /* dictionary3.txt */,
 				40C8B39127D69DC70091A30D /* main.cpp */,
+				40C8B39927D6B17B0091A30D /* dict.txt */,
+				40B4ABAC27DBDBCC00055653 /* dictionary2.txt */,
+				40E462C52AE06BC0005E60F9 /* stringfile.txt */,
 			);
 			path = "Mini Project: Compressed Sentences";
 			sourceTree = "<group>";

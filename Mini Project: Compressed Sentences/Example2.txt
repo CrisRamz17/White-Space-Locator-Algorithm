@@ -1,0 +1,64 @@
+Original Sentence: Iamacollegestudentstudyingmathandcomputerscience.
+
+Here Are The Best Possible Solutions From Best to Worst:
+
+1: I am a college student studying mat hand computer science.
+2: I am a college student studying mat hand comp ut er science.
+3: I am a college students tu dying mat hand computer science.
+4: I a ma college student studying mat hand computer science.
+5: I am a college students tu dying mat hand comp ut er science.
+6: I am a college student studying mat hand co mp ut er science.
+7: I am a college student studying ma th and computer science.
+8: I a ma college student studying mat hand comp ut er science.
+9: I am a college student studying ma th and comp ut er science.
+10: I a ma college students tu dying mat hand computer science.
+11: I am a college students tu dying mat hand co mp ut er science.
+12: I am a college students tu dying ma th and computer science.
+13: I a ma college students tu dying mat hand comp ut er science.
+14: I a ma college student studying mat hand co mp ut er science.
+15: I am a colleges tu dent studying mat hand computer science.
+16: I am a college stud en ts tu dying mat hand computer science.
+17: I a ma college student studying ma th and computer science.
+18: I am a college students tu dying ma th and comp ut er science.
+19: I am a college student studying ma th and co mp ut er science.
+20: I am a colleges tu dent studying mat hand comp ut er science.
+21: I am a colleges tu den ts tu dying mat hand computer science.
+22: I am a college stud en ts tu dying mat hand comp ut er science.
+23: I a ma college student studying ma th and comp ut er science.
+24: I a ma college students tu dying mat hand co mp ut er science.
+25: I a ma college students tu dying ma th and computer science.
+26: I am a colleges tu den ts tu dying mat hand comp ut er science.
+27: I am a college students tu dying ma th and co mp ut er science.
+28: I a ma colleges tu dent studying mat hand computer science.
+29: I am a colleges tu dent studying mat hand co mp ut er science.
+30: I a ma college stud en ts tu dying mat hand computer science.
+31: I am a college stud en ts tu dying mat hand co mp ut er science.
+32: I a ma college students tu dying ma th and comp ut er science.
+33: I a ma college student studying ma th and co mp ut er science.
+34: I am a colleges tu dent studying ma th and computer science.
+35: I a ma colleges tu dent studying mat hand comp ut er science.
+36: I am a college stud en ts tu dying ma th and computer science.
+37: I a ma colleges tu den ts tu dying mat hand computer science.
+38: I a ma college stud en ts tu dying mat hand comp ut er science.
+39: I am a colleges tu den ts tu dying mat hand co mp ut er science.
+40: I am a colleges tu dent studying ma th and comp ut er science.
+41: I am a colleges tu den ts tu dying ma th and computer science.
+42: I am a college stud en ts tu dying ma th and comp ut er science.
+43: I a ma colleges tu den ts tu dying mat hand comp ut er science.
+44: I a ma college students tu dying ma th and co mp ut er science.
+45: I a ma colleges tu dent studying mat hand co mp ut er science.
+46: I am a colleges tu den ts tu dying ma th and comp ut er science.
+47: I a ma college stud en ts tu dying mat hand co mp ut er science.
+48: I a ma colleges tu dent studying ma th and computer science.
+49: I am a colleges tu dent studying ma th and co mp ut er science.
+50: I a ma college stud en ts tu dying ma th and computer science.
+51: I am a college stud en ts tu dying ma th and co mp ut er science.
+52: I a ma colleges tu den ts tu dying mat hand co mp ut er science.
+53: I a ma colleges tu dent studying ma th and comp ut er science.
+54: I a ma colleges tu den ts tu dying ma th and computer science.
+55: I a ma college stud en ts tu dying ma th and comp ut er science.
+56: I am a colleges tu den ts tu dying ma th and co mp ut er science.
+57: I a ma colleges tu den ts tu dying ma th and comp ut er science.
+58: I a ma colleges tu dent studying ma th and co mp ut er science.
+59: I a ma college stud en ts tu dying ma th and co mp ut er science.
+60: I a ma colleges tu den ts tu dying ma th and co mp ut er science.
